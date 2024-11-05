@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="20b45d11-f64c-49b7-ae7b-02234048824a" name="github" url="https://github.com/jeesusmndz04/proyectointellij.githttp://">
+        <fileTransfer accessType="WEBDAV" port="6180">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
